@@ -46,6 +46,10 @@ You need to input the following:
 ### _Output_
 The program will calcuate how much money you will have to repay each month and give the output
 
+### Screenshot how to run the program 
+
+* This ss shows the result of calculation with Investment type.
+  ![alt text]()
 
 
 
