@@ -7,3 +7,7 @@ In a file called nlp_1.pdf cagtegorise which types of NLP application applies fo
 3. A model that provides assistive technology for doctors to procide their diagonisis.
 
 In a file called nlp_2 decribes aobut an innovative technology using NLP which is Google assistant by Google. All the deatils of NLP usage for google assistant are explained in this document. 
+
+## Capstone Project - Variables and Control Structures
+
+
