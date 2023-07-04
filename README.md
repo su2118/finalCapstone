@@ -49,7 +49,8 @@ The program will calcuate how much money you will have to repay each month and g
 ### Screenshot how to run the program 
 
 * This ss shows the result of calculation with Investment type.
-  ![alt text]()
+  ![alt text](Investment.png)
+  
 
 
 
